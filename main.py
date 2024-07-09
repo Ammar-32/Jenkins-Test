@@ -6,6 +6,7 @@ def greetUser():
 def main():
     greetUser()
     greetUser()
+    greetUser()
 
 if __name__ == "__main__":
     main()
