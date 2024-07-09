@@ -5,6 +5,7 @@ def greetUser():
 # Main Function
 def main():
     greetUser()
+    greetUser()
 
 if __name__ == "__main__":
     main()
